@@ -1,0 +1,1 @@
+en cada ejecucion se logra ver que el orden de las tareas se mantiene constante ya que se encuentra en una cola, pero el orden de los trabajadores varia dependiendo a que tan rapido termine la tarea, con la limitante de que cada trabajador solo puede hacer 6 documentos 
